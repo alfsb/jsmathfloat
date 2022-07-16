@@ -1,0 +1,1 @@
+Este é um projeto temporário, um fórum para falar sobre o texto [Estudo e validações de bibliotecas matemáticas do JavaScript](https://lab.vortx.com.br/estudo-e-validacoes-de-bibliotecas-matematicas-do-javascript/).
